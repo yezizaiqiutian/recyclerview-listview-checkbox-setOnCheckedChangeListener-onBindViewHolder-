@@ -1,0 +1,2 @@
+# recyclerview-listview-checkbox-setOnCheckedChangeListener-onBindViewHolder-
+recyclerview/listview中checkbox-setOnCheckedChangeListener在onBindViewHolder中重复调用
